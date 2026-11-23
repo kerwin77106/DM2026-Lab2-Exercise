@@ -23,3 +23,6 @@ DM2026-Lab2-Master-Grading-Reference.ipynb
 # so nothing a student runs can put a session log in a public repository. Keep
 # this entry on any future sync from Lab 1.
 session_logs/
+
+# Kaggle competition data: keep it out of the public fork (competition rules).
+data/kaggle/
